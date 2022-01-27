@@ -1,5 +1,5 @@
 {
-  "name": "@fr/apollo-datasource-msnodesqlv8",
+  "name": "@fish-and-richardson-pc/apollo-datasource-msnodesqlv8",
   "version": "0.1.0",
   "description": "Apollo Datasource using msnodesqlv8",
   "main": "build/index.js",
