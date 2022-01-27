@@ -5,9 +5,9 @@ __metadata:
   version: 5
   cacheKey: 8
 
-"@fr/apollo-datasource-msnodesqlv8@workspace:.":
+"@fish-and-richardson-pc/apollo-datasource-msnodesqlv8@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@fr/apollo-datasource-msnodesqlv8@workspace:."
+  resolution: "@fish-and-richardson-pc/apollo-datasource-msnodesqlv8@workspace:."
   dependencies:
     "@types/node": ^10.0.0
     apollo-datasource: ^3.3.1
