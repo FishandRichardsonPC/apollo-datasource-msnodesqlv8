@@ -56,7 +56,7 @@ export interface Results<TResults extends any[][], TOutput extends any[] = any[]
 
 export type QueryResult<TResult extends any[] = unknown[], TOutput extends any[] = unknown[]> = TResult extends any[][]
 	? Results<TResult, TOutput>
-	: Promise<Result<TResult, TOutput>>
+	: Result<TResult, TOutput>
 
 export class MssqlDataSource<TContext = any> extends DataSource {
 	private keyValueCache: KeyValueCache | undefined;
