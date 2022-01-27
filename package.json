@@ -1,6 +1,6 @@
 {
   "name": "@fish-and-richardson-pc/apollo-datasource-msnodesqlv8",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Apollo Datasource using msnodesqlv8",
   "main": "build/index.js",
   "types": "build/index.d.ts",
